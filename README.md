@@ -1,1 +1,1 @@
-# TouhouSTG
+# TouhouSTGPlugin
